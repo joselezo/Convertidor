@@ -27,3 +27,5 @@ Recordando que también debe ser posible convertir inversamente.
 https://user-images.githubusercontent.com/79545046/223928055-281c44ad-312f-42e6-b25e-af4bdf32444e.mp4
 
 <br>
+<h6>Contacto</h6>
+<a href="https://www.linkedin.com/in/josé-trinidad-hernandez-lezo">LinKedIn</a>
